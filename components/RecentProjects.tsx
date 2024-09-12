@@ -20,7 +20,7 @@ const RecentProjects = () => {
           >
             <PinContainer
               title="/ui.aceternity.com"
-              href="https://twitter.com/mannupaaji"
+              href="jasonwongys@hotmail.com"
             >
               <div className="relative flex items-start justify-stretch sm:w-96 w-[80vw] overflow-hidden h-[20vh] lg:h-[30vh] mb-10">
                 <div
@@ -32,7 +32,7 @@ const RecentProjects = () => {
                 <img
                   src={item.img}
                   alt="cover"
-                  className="z-10 absolute bottom-0"
+                  className="z-10 absolute bottom-0 h-full"
                 />
               </div>
 
@@ -67,7 +67,7 @@ const RecentProjects = () => {
 
                 <div className="flex justify-center items-center">
                   <p className="flex lg:text-xl md:text-xs text-sm text-white">
-                    Check Live Site
+                    <a href={item.link}>Check Live Site</a>
                   </p>
                   <FaLocationArrow className="ms-3" color="#CBACF9" />
                 </div>
