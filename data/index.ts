@@ -76,15 +76,15 @@ export const projects = [
     des: "A Admin Dashboard for eCommerce Shop with CRUD functionality with MongoDB",
     img: "/p1.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
-    link: "https://juststoreadmin-plgwwsfxu-jasonwongys-projects.vercel.app/",
+    link: "https://juststoreadmin.vercel.app/",
   },
   {
     id: 2,
     title: "eCommerce App",
     des: "A eCommerce Application selling fashionable apparel with Stripe payments",
     img: "/p2.jpg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg","/stripe.svg"],
-    link: "https://juststore-3243-jbcb18gsy-jasonwongys-projects.vercel.app/",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stripe.svg"],
+    link: "https://juststore-3243.vercel.app/",
   },
   {
     id: 3,
