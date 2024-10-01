@@ -72,11 +72,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "eCommerce Dashboard",
-    des: "A Admin Dashboard for eCommerce Shop with CRUD functionality with MongoDB",
-    img: "/p1.jpg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
-    link: "https://juststoreadmin.vercel.app/",
+    title: "Food Recipe App",
+    des: "A Food Recipe Application using React Context",
+    img: "/p4.jpg",
+    iconLists: ["/re.svg", "/tail.svg"],
+    link: "https://foodrecipeapp-green.vercel.app/",
   },
   {
     id: 2,
