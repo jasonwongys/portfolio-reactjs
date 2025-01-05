@@ -94,14 +94,14 @@ export const projects = [
     iconLists: ["/re.svg", "/tail.svg", "/django.svg"],
     link: "/ui.aiimg.com",
   },
-  // {
-  //   id: 4,
-  //   title: "Animated Apple Iphone 3D Website",
-  //   des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-  //   img: "/p4.svg",
-  //   iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-  //   link: "/ui.apple.com",
-  // },
+  {
+    id: 4,
+    title: "Habit Tracker",
+    des: "A habit tracker to document daily habits, one day at a time",
+    img: "/habitracker.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://habitopia-tracker-60.lovable.app/",
+  },
 ];
 
 export const testimonials = [
